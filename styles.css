@@ -73,3 +73,12 @@
 .ihv-seven:hover {
     content: url("./images/blacktee_2.jpg");
 }
+
+/* Image Eight */
+.card-img-top-eight {
+    content: url("./images/adidas_1.jpg");
+    height: 100%;
+}
+.ihv-eight:hover {
+    content: url("./images/adidas_2.jpg");
+}

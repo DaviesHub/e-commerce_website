@@ -21,3 +21,7 @@ Chain 1 pic by Lil Artsy on Pexels
 Chain 2 pic by Cottonbro Studio on Pexels
 Boot 1 pic by Галина Ласаева on Pexels
 Boot 2 pic by Polina Tankilevitch on Pexels
+Nike 1 pic by Pat Kwon on Pexels
+Nike 2 pic by Guillermo Arroyo on Pexels
+Jacket 1 pic by Aman Jakhar on Pexels
+Jacket 2 pic by Sagar Kimar on Pexels

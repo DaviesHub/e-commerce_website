@@ -100,3 +100,21 @@
 .ihv-ten:hover {
     content: url("./images/boot_2.jpg");
 }
+
+/* Image Eleven */
+.card-img-top-eleven {
+    content: url("./images/nike_1.jpg");
+    height: 100%;
+}
+.ihv-eleven:hover {
+    content: url("./images/nike_2.jpg");
+}
+
+/* Image Twelve */
+.card-img-top-twelve {
+    content: url("./images/leatherjack_2.jpg");
+    height: 100%;
+}
+.ihv-twelve:hover {
+    content: url("./images/leatherjack_1.jpg");
+}

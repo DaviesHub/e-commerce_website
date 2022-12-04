@@ -13,3 +13,5 @@ Grey clothes pics by Monstera on Pexels
 White hat pics by Mediamodifier on Unsplash
 Hoodie 1 pic by Alan Garzon on Pexels
 Hoodie 2 pic by Gab on Unsplash
+Black tee 1 pic by Ian Dooley on Unsplash
+Black tee 2 pic by Sven Ciupka on Unsplash

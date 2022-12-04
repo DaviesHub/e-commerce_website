@@ -64,3 +64,12 @@
 .ihv-six:hover {
     content: url("./images/hoodie_2.jpg");
 }
+
+/* Image Seven */
+.card-img-top-seven {
+    content: url("./images/blacktee_1.jpg");
+    height: 100%;
+}
+.ihv-seven:hover {
+    content: url("./images/blacktee_2.jpg");
+}

@@ -17,3 +17,7 @@ Black tee 1 pic by Ian Dooley on Unsplash
 Black tee 2 pic by Sven Ciupka on Unsplash
 Adidas hoodie 1 pic by Efigie Lima Marcos on Pexels
 Adidas hoodie 2 pic by Bogdan Glisik on Pexels
+Chain 1 pic by Lil Artsy on Pexels
+Chain 2 pic by Cottonbro Studio on Pexels
+Boot 1 pic by Галина Ласаева on Pexels
+Boot 2 pic by Polina Tankilevitch on Pexels

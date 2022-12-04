@@ -82,3 +82,21 @@
 .ihv-eight:hover {
     content: url("./images/adidas_2.jpg");
 }
+
+/* Image Nine */
+.card-img-top-nine {
+    content: url("./images/chain_1.jpg");
+    height: 100%;
+}
+.ihv-nine:hover {
+    content: url("./images/chain_2.jpg");
+}
+
+/* Image Ten */
+.card-img-top-ten {
+    content: url("./images/boot_1.jpg");
+    height: 100%;
+}
+.ihv-ten:hover {
+    content: url("./images/boot_2.jpg");
+}

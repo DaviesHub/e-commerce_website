@@ -11,10 +11,29 @@
     height: 100%;
 }
 
+/* Image One */
 .card-img-top-one {
     content: url("./images/denim_jeans.jpg");
+    height: 100%;
+}
+.ihv-one:hover {
+    content: url("./images/denim_jeans2.jpg");
 }
 
-.ihv:hover {
-    content: url("./images/denim_jeans2.jpg");
+/* Image Two */
+.card-img-top-two {
+    content: url("./images/yeezy_1.jpg");
+    height: 100%;
+}
+.ihv-two:hover {
+    content: url("./images/yeezy_2.jpg");
+}
+
+/* Image Three */
+.card-img-top-three {
+    content: url("./images/reddress_1.jpg");
+    height: 100%;
+}
+.ihv-three:hover {
+    content: url("./images/reddress_2.jpg");
 }

@@ -10,3 +10,11 @@
 .card {
     height: 100%;
 }
+
+.card-img-top-one {
+    content: url("./images/denim_jeans.jpg");
+}
+
+.ihv:hover {
+    content: url("./images/denim_jeans2.jpg");
+}

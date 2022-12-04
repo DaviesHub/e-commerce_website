@@ -46,3 +46,21 @@
 .ihv-four:hover {
     content: url("./images/grey_2.jpg");
 }
+
+/* Image Five */
+.card-img-top-five {
+    content: url("./images/whitehat_1.jpg");
+    height: 100%;
+}
+.ihv-five:hover {
+    content: url("./images/whitehat_2.jpg");
+}
+
+/* Image Six */
+.card-img-top-six {
+    content: url("./images/hoodie_1.jpg");
+    height: 100%;
+}
+.ihv-six:hover {
+    content: url("./images/hoodie_2.jpg");
+}
